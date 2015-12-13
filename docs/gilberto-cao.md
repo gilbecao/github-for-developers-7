@@ -4,3 +4,4 @@
 -[] Country: Cuba
 -[] Food: Rice and meet
 -[] Hobby: Football
+-[] Color: Red
